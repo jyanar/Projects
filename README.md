@@ -90,6 +90,7 @@ Classic Algorithms
 
 **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
+**Nested Lists (added by Jorge)** - Create a program that is able to recursively operate upon lists of numbers, with the condition that any given list might contain more nested lists of numbers.
 
 Graph
 --------
