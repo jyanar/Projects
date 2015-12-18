@@ -25,7 +25,6 @@ def uptoNthFib(n):
         fn2 = fn1
         fn1 = fn
 
-
 fibonnaci(400)
 fibonnaci(1000)
 uptoNthFib(400)
